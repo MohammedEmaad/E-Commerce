@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useParams, useLocation } from 'react-router-dom';
 
 const ItemView = ({ cartQuantities, setCartQuantities }) => {
-  const [selectedFlower, setSelectedFlower] = useState(null);
+  const [selectedItem, setSelectedItem] = useState(null);
   const { id } = useParams();
   const location = useLocation();
   const { products } = location.state;
@@ -14,6 +14,8 @@ const ItemView = ({ cartQuantities, setCartQuantities }) => {
       </div>
     );
   }
+
+  console.log(location.state); // Check the passed state
 
   const product = products.find((product) => product.id === id);
   if (!product) {
@@ -66,7 +68,7 @@ const ItemView = ({ cartQuantities, setCartQuantities }) => {
     }
   };
 
-  const ImageToDisplay = selectedFlower || product.image;
+  const ImageToDisplay = selectedItem || product.image;
   const galleryImages = [
     product.image,
     product.image2,
@@ -132,7 +134,7 @@ const ItemView = ({ cartQuantities, setCartQuantities }) => {
               <div
                 key={index}
                 className="cursor-pointer transition-all duration-300 hover:scale-105"
-                onClick={() => setSelectedFlower(image)}
+                onClick={() => setSelectedItem(image)}
               >
                 <img
                   src={image}

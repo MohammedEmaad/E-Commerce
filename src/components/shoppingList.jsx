@@ -11,7 +11,7 @@ const ShoppingList = () => {
   // Fetch products from the server
   useEffect(() => {
     axios
-      .get('http://localhost:5000/flowers')
+      .get('http://localhost:5000/items')
       .then((response) => {
         setProducts(response.data);
         setLoading(false);

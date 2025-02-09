@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": "800",
+      "image": "https://i.pcmag.com/imagery/reviews/06Id58TJW8pkzAkqmSi7hjU-1.fit_lim.size_919x518.v1729701979.jpg",
+      "image2": "https://helios-i.mashable.com/imagery/articles/05djrP5PjtVB7CcMtvrTOAP/images-4.fill.size_2000x1125.v1723100793.jpg",
+      "image3": "https://uaedubai-bucket.s3.me-central-1.amazonaws.com/wp-content/uploads/2023/05/HP-OMEN-17-CK1000-Gaming-Laptop_uaedubai.ae_2.jpg",
+      "image4": "https://pimcdn.sharafdg.com/cdn-cgi/image/width=600,height=600,fit=pad/images/S200772076_1?1731658576",
+      "description": "A high-performance laptop with a sleek design and powerful capabilities for work or play."
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "price": "600",
+      "image": "https://mdsmobile.ae/cdn/shop/files/SM-A166F_GalaxyA16_5G_LightGreen_Front.png?v=1733377558",
+      "image2": "https://i.guim.co.uk/img/media/2ce8db064eabb9e22a69cc45a9b6d4e10d595f06/392_612_4171_2503/master/4171.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=45b5856ba8cd83e6656fbe5c166951a4",
+      "image3": "https://image-us.samsung.com/SamsungUS/home/smartphones/galaxy-s24/gallery-images/FNL_Gallery_Base_800x600_Slide_Exclusive_Colors_1.jpg",
+      "image4": "https://www.cnet.com/a/img/resize/c62daecdbaa3e47d174e46c553fa208d88ba7b99/hub/2024/01/25/512ab612-f02e-4cdb-8e36-42e5d83a49ca/samsung-galaxy-s24-s24-plus-5937.jpg?auto=webp&fit=crop&height=900&width=1200",
+      "description": "A cutting-edge smartphone with advanced features including a high-resolution camera and long battery life."
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": "150",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MQTR3?wid=1377&hei=2057&fmt=jpeg&qlt=95&.v=1687660671097",
+      "image2": "https://m.media-amazon.com/images/I/61pSrVX-v1L._AC_SL1500_.jpg",
+      "image3": "https://www.jarir.com/cdn-cgi/image/fit=contain,width=auto,height=auto,quality=85,metadata=none/https://ak-asset.jarir.com/akeneo-prod/asset/6/a/b/4/6ab487d88ee0e885e1a66ee9f633e56511e5e646_621244_2.jpg",
+      "image4": "https://m.media-amazon.com/images/I/61NAg1XGoCL._AC_UF350,350_QL80_.jpg",
+      "description": "Noise-cancelling headphones designed for immersive sound experience, perfect for travel or daily use."
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "price": "200",
+      "image": "https://m.media-amazon.com/images/I/61I22cL7v+L._AC_UF1000,1000_QL80_.jpg",
+      "image2": "https://m.media-amazon.com/images/I/61eARyrSn5L._AC_UF894,1000_QL80_.jpg",
+      "image3": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8080f915-84f2-46f9-b85b-d0599a42c4fd.__CR0,0,600,450_PT0_SX600_V1___.png",
+      "image4": "https://m.media-amazon.com/images/I/718IyEMvmhL.jpg",
+      "description": "A smartwatch that keeps you connected, tracks your fitness goals, and provides important notifications."
+    },
+    {
+      "id": 5,
+      "name": "Backpack",
+      "price": "50",
+      "image": "https://liftdex.ae/wp-content/uploads/2023/10/large-forest-green-gym-backpack-001.webp",
+      "image2": "https://builtforathletes.com/cdn/shop/files/built-for-athletes-large-forest-green-gym-backpack-31541276573783.webp?v=1713271577&width=3667",
+      "image3": "https://builtforathletes.com/cdn/shop/files/built-for-athletes-large-forest-green-gym-backpack-31577423773783.webp?crop=center&height=1024&v=1713271732&width=1024",
+      "image4": "https://builtforathletes.com/cdn/shop/files/built-for-athletes-large-forest-green-gym-backpack-31577423773783.webp?crop=center&height=1024&v=1713271732&width=1024",
+      "description": "A durable and stylish backpack designed for both work and casual use, with plenty of storage space."
+    },
+    {
+      "id": 6,
+      "name": "Bluetooth Speaker",
+      "price": "120",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81wdmgabXFL.jpg",
+      "image2": "https://m.media-amazon.com/images/I/81mI7Ezy2fL._AC_UF350,350_QL80_.jpg",
+      "image3": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2ddce3e9-57d0-4058-8a5b-e86950d76a66.__CR0,0,463,625_PT0_SX463_V1___.jpg",
+      "image4": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3c5a5d9a-20d4-44e9-a094-3ec2b865bcd4.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "description": "Portable Bluetooth speaker with amazing sound quality, perfect for listening to music on the go."
+    },
+    {
+      "id": 7,
+      "name": "Coffee Maker",
+      "price": "90",
+      "image": "https://www.realsimple.com/thmb/Yl5u2pFYnYzNjHZWjJBUGmRqMt8=/fit-in/1500x3335/filters:no_upscale():max_bytes(150000):strip_icc()/Testing-Cuisinart_ConicalBurr_DGB2_4-ddmfs-176-Russell-Kilgore.jpg-4e4ba0a9d77648f282f8abf5b36d9112.jpg",
+      "image2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSFTuwN0TZakLXFdp054XiVoNKHD7wAC3jJdLSGqlAPX1RPOK-auWHaR8CNnbzuc0MB5o&usqp=CAU",
+      "image3": "https://i5.walmartimages.com/seo/Cuisinart-DGB-2-Single-Serve-Grind-and-Brew-Black_1a39ebdc-6ef7-4ac5-b9bd-72e9fd891cda.9584f7f71eb4851ef355fb8a02644e1c.jpeg",
+      "image4": "https://m.media-amazon.com/images/I/714HMWAKKlL._AC_UF350,350_QL80_.jpg",
+      "description": "A coffee maker that brews your favorite coffee with ease, perfect for a quick morning pick-me-up."
+    }
+  ]
+}
