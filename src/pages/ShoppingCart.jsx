@@ -10,7 +10,7 @@ const ShoppingCart = ({ cartQuantities }) => {
 
   return (
     <div className="absolute inset-0 bg-white flex justify-center items-center">
-      <div className="bg-rose-50 shadow-2xl rounded-lg p-6 w-[500px]">
+      <div className="bg-blue-50 shadow-2xl rounded-lg p-6 w-[500px]">
         <h2 className="text-2xl font-bold mb-4 text-center text-gray-600 ">
           Shopping Cart
         </h2>
@@ -45,7 +45,7 @@ const ShoppingCart = ({ cartQuantities }) => {
                 ${totalCartPrice.toFixed(2)}
               </div>
             </div>
-            <div className="p-4 bg-rose-200 shadow-2xl rounded-lg hover:bg-rose-300 text-center">
+            <div className="p-4 bg-blue-200 shadow-2xl rounded-lg hover:bg-blue-300 text-center">
               Payment
             </div>
           </>
